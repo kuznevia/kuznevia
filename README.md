@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My pet projects portfolio https://github.com/kuznevia/portfolio
+
 <!--
 **kuznevia/kuznevia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
