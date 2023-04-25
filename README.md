@@ -2,6 +2,10 @@
 
 My pet projects portfolio https://github.com/kuznevia/portfolio
 
+I am Frontend developer, currently working at Rostelecom IT
+
+How to contact me: just send me a message in telegram https://t.me/kuznevia
+
 <!--
 **kuznevia/kuznevia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
