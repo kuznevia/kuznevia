@@ -2,7 +2,7 @@
 
 My pet projects portfolio https://github.com/kuznevia/portfolio
 
-I am Frontend developer, currently working at Rostelecom IT
+I am a Frontend developer, currently working at Rostelecom IT
 
 How to contact me: just send me a message in telegram https://t.me/kuznevia
 
