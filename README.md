@@ -2,8 +2,6 @@
 
 I am a Frontend developer, currently working at Rostelecom IT
 
-My pet projects portfolio: https://github.com/kuznevia/portfolio
-
 How to contact me: just send me a message in telegram https://t.me/kuznevia
 
 <!--
