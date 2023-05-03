@@ -2,7 +2,7 @@
 
 I am a Frontend developer, currently working at Rostelecom IT
 
-How to contact me: just send me a message in telegram https://t.me/kuznevia
+Contact me: https://t.me/kuznevia
 
 <!--
 **kuznevia/kuznevia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
