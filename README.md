@@ -2,6 +2,8 @@
 
 I am a Frontend developer, currently working at Rostelecom IT
 
+My current pet project: https://github.com/kuznevia/task-manager
+
 Contact me: https://t.me/kuznevia
 
 <!--
