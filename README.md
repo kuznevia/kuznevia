@@ -2,10 +2,6 @@
 
 I am a Frontend developer, currently working at Rostelecom IT
 
-My current pet project: https://github.com/kuznevia/task-manager
-
-Studying advanced front-end (Ulbi course): https://github.com/kuznevia/ulbi-production-react
-
 Contact me: https://t.me/kuznevia
 
 <!--
