@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Frontend developer, currently working at Rostelecom IT
+I am a Frontend developer, currently working at Bell Integrator
 
 Contact me: https://t.me/kuznevia
 
