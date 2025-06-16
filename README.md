@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Frontend developer, currently working at Bell Integrator
+I am a Frontend developer, currently working at Foxford
 
 Contact me: https://t.me/kuznevia
 
